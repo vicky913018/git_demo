@@ -23,6 +23,10 @@
   body {
     font-family: 'Nunito', sans-serif;
   }
+
+  body:hover{
+    background-color: #ecdb3f;
+  }
   </style>
 </head>
 
