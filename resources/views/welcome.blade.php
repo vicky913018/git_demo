@@ -18,6 +18,8 @@
     -webkit-text-size-adjust: 100%;
     background-color: #f4f2e1;
     color: #2d3748;
+    margin:0;
+    border:0;
   }
 
   body {
