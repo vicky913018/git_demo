@@ -17,6 +17,7 @@
         <style>
             html {
                 background-color: #f4f2e1;
+                color:#2d3748;
             }
             body {
                 font-family: 'Nunito', sans-serif;
