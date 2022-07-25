@@ -20,6 +20,10 @@
     color: #2d3748;
   }
 
+  a{
+
+  }
+
   body {
     font-family: 'Nunito', sans-serif;
   }
